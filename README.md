@@ -1,22 +1,20 @@
-# advanced_cpp
+## Advanced Cpp
 
-# The C++ Programming Language by Bjarne Stroustrup (3rd Edition)
+#### The C++ Programming Language by Bjarne Stroustrup (3rd Edition)
 
-+
-
-## Strategy
 
 -------------------------------------------------
     1. Basic Facilities (4, 5, 6, 7, 8, 9)
 -------------------------------------------------
-  
-|:----------      				|:------------- | 													
-|* Types and Declarations			|				|   
-|* Pointers, Array, and Structures		|				|		                   
-|* Expression and Statements			|				|	                   
-|* Functions					|				|	                   
-|* Namespace and Exceptions			|				|	                   
-|* Source Files and Programms			|				|		                   
+
+| Chapter                           | No. of Problems |
+|:----------      				    |:-------------   | 													
+| Types and Declarations			|				  |   
+| Pointers, Array, and Structures	|				  |		                   
+| Expression and Statements		    |				  |	                   
+| Functions					        |				  |	                   
+| Namespace and Exceptions		    |				  |	                   
+| Source Files and Programms		|				  |		                   
 
  
     
